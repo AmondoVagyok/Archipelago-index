@@ -255,6 +255,9 @@
 [hexcells_infinite]
 "1.2.0" = "83838f50040f75831a5d274ef106ee8b86d577e9506167f87a7b461e7997529b"
 
+[hi_fi_rush]
+"0.2.0" = "5dcd0d08e66afd5951167a5d41dda809815a423b1634ed782d6fcf28c107030b"
+
 [hitman_woa]
 "0.7.2" = "f8748f20f4d730996d7919a2beaf22abf25c0c2bfd2e1ae0d4fa2d8c6c87f694"
 
@@ -273,6 +276,9 @@
 [into_the_breach]
 "0.15.15" = "9f1777dcb1400e5d7d36aa92a71c23d75f3e9425c3bf1defd8b475325ad4de2a"
 "0.15.17" = "504e2de0c4c06c40f760851c29f533a98bedc9624c625802fd8bdc1306fbc033"
+
+[isles_of_sea_and_sky]
+"0.0.14" = "9b2f15d9431a580e89b3b990ef2627a5abbfcaf13f77c4361f9ef194b60c79bf"
 
 [ittle_dew_2]
 "0.2.1+region-gates" = "a581bab68d122a6810dbb7e77901055fccc2b1850326f4af9d39f96ea2dc49fb"
@@ -392,9 +398,6 @@
 
 [manual_baldisbasicsclassicremastered_wolfboi008]
 "1.2.1+b" = "f8657b604d67fe6b61b28c2d7c65533b6eebf0fe152987707086d22a45df92de"
-
-[manual_bandhero_gwaf]
-"1.0.0" = "ac8b39d498e6f1bcfc3f6b121f46ea72c718d1820afb4a90827c015cfb1ef809"
 
 [manual_battleblocktheater_commanderdot]
 "1.0.0" = "a969353846e0f408be83e5ac433d0e7c32da52a91dfc1475a4c0e1386dcfbcb5"
